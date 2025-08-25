@@ -1,9 +1,6 @@
 <p align="center">
-
-  <img src="docs/header.png" alt="WinnerFit Header" width="800"/>
-
+  <img src="../docs/header.png" alt="WinnerFit Header" width="100%"/>
 </p>
-
 
 
 # 🏆 WinnerFit: Motion to Action
